@@ -1,0 +1,1 @@
+global.hasSword = 0;
